@@ -16,7 +16,6 @@
 - [overview](docs/overview.md)<br>
 - [architecture](docs/architecture.md)<br>
 - [core-features](docs/core-features.md)<br>
-- [roadmap](docs/roadmap.md)<br>
 
 ## 코드 공개 정책
 
